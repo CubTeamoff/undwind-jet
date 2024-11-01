@@ -1,0 +1,22 @@
+{
+  "name": "undwind-jet",
+  "version": "0.0.6",
+  "description": "undwind-jet",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CubTeamoff/undwind-jet.git"
+  },
+  "keywords": [
+    "build 0.0.6 test version syntax highlighting language jet  you can find usage on github"
+  ],
+  "author": "undline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CubTeamoff/undwind-jet/issues"
+  },
+  "homepage": "https://github.com/CubTeamoff/undwind-jet.git"
+}
